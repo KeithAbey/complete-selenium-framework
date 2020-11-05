@@ -1,0 +1,23 @@
+{
+  "name": "complete-selenium-framework",
+  "version": "1.1.0",
+  "description": "Percy Visual Testing Integration",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@percy/agent": "^0.28.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/erandakodagoda/complete-selenium-framework.git"
+  },
+  "author": "Eranda Kodagoda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/erandakodagoda/complete-selenium-framework/issues"
+  },
+  "homepage": "https://gitlab.com/erandakodagoda/complete-selenium-framework#readme"
+}
